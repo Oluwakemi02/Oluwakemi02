@@ -1,4 +1,7 @@
-###  Hi there 👋 I’m @Oluwakemi02
+###  Hi there 👋 
+
+##  This is @Oluwakemi02
+
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning data analysis so as to gain insights into driving informed decision making through data analysis and visualization
 - 💞️ I’m seeking opportunities to collaborate on project that can help build my data analysis skill.
